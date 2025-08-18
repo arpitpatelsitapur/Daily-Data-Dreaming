@@ -1,34 +1,65 @@
-![Daily Data Dreaming Banner](https://img.shields.io/badge/Daily%20Data%20Dreaming-%F0%9F%8C%9F-blueviolet?style=for-the-badge)
 
-# 🌌 Daily Data Dreaming  
-Welcome to **Daily Data Dreaming** — a repository where I share my **daily experiments, demos, and projects** in **AI, Data Science, and Machine Learning**.  
+<div align="center">
+<!-- Banner -->
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daily%20Data%20Dreaming&fontSize=50&fontColor=fff" alt="banner"/>
+</p>
+  <h4>Welcome to <b>Daily Data Dreaming</b> — a repository where I share my <b>daily experiments, demos, and projects</b> in <b>AI, Data Science, and Machine Learning</b>. This repo is my <b>learning playground</b> ✨: each file or notebook captures an idea, demo, or mini-project that explores the future of AI engineering.</h4>
 
-This repo is my **learning playground** ✨: each file or notebook captures an idea, demo, or mini-project that explores the future of AI engineering.
+<!-- Badges Row 1 -->
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" height="22" alt="Python">
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" height="22" alt="PyTorch">
+  </a>
+  <a href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" height="22" alt="TensorFlow">
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" height="22" alt="NumPy">
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" height="22" alt="Pandas">
+  </a>
+  <br>
 
----
+<!-- Badges Row 2 -->
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" height="22" alt="FastAPI">
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="22" alt="Streamlit">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="22" alt="Docker">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" height="22" alt="AWS">
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square" height="22" alt="LaTeX">
+  </a>
+  <br>
 
-## 🛠️ Tech Stack & Topics  
+<!-- Badges Row 3 -->
+  <a href="https://www.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white&style=flat-square" height="22" alt="LangChain">
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black&style=flat-square" height="22" alt="HuggingFace">
+  </a>
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" height="22" alt="OpenAI">
+  </a>
+  <a href="https://firecrawl.dev/">
+    <img src="https://img.shields.io/badge/Firecrawl-FC4C02?logo=firefoxbrowser&logoColor=white&style=flat-square" height="22" alt="Firecrawl">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">
+    <img src="https://img.shields.io/badge/RAG-5D3FD3?logo=bookstack&logoColor=white&style=flat-square" height="22" alt="RAG">
+  </a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=tensorflow&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?logo=openai&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)  
-![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-5D3FD3?logo=bookstack&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
-![Firecrawl](https://img.shields.io/badge/Firecrawl-FC4C02?logo=firefoxbrowser&logoColor=white)  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)  
-
----
+</div>
 
 ---
 ## 📂 Current Demos
@@ -73,9 +104,9 @@ I’ll be adding more exciting projects soon:
 ## 📢 Contribute
 I welcome contributors! If you have an idea, demo, or want to improve something:
 
-1. 🍴 Fork this repo  
-2. 🌱 Create a new branch  
-3. 🔄 Submit a Pull Request  
+1.  Fork this repo  
+2.  Create a new branch  
+3.  Submit a Pull Request  
 
 ---
 

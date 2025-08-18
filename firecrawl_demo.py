@@ -3,7 +3,7 @@ import asyncio
 from firecrawl import AsyncFirecrawlApp
 
 async def main():
-    app = AsyncFirecrawlApp(api_key='fc-32d27550d70c4eddb5e0f16cfc3bda92')
+    app = AsyncFirecrawlApp(api_key='YOUR_API_KEY')
     response = await app.scrape_url(
         url='https://arpitpatelsitapur.github.io/',		
         formats= [ 'markdown' ],

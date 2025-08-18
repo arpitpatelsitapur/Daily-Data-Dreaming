@@ -1,5 +1,3 @@
--
-
 ![Daily Data Dreaming Banner](https://img.shields.io/badge/Daily%20Data%20Dreaming-%F0%9F%8C%9F-blueviolet?style=for-the-badge)
 
 # 🌌 Daily Data Dreaming  
@@ -9,6 +7,30 @@ This repo is my **learning playground** ✨: each file or notebook captures an i
 
 ---
 
+## 🛠️ Tech Stack & Topics  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=tensorflow&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?logo=openai&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)  
+![RAG](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-5D3FD3?logo=bookstack&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FC4C02?logo=firefoxbrowser&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)  
+
+---
+
+---
 ## 📂 Current Demos
 Here’s what’s already inside:
 

@@ -5,13 +5,13 @@ from firecrawl import AsyncFirecrawlApp
 async def main():
     app = AsyncFirecrawlApp(api_key='FIRECRAWL_API_KEY')
     response = await app.scrape_url(
-        url='https://arpitpatelsitapur.github.io/',		
+        url="your_url_here",		
         formats= [ 'markdown' ],
         only_main_content= True,
         parse_pdf= True,
         max_age= 14400000
     )
-    print(response.markdown) # get only markdown
+    print(response.markdown) # get only
 
 
 asyncio.run(main())

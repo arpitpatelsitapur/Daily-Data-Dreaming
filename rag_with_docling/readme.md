@@ -1,15 +1,15 @@
-# 📄 RAG with Docling + Ollama
+# 📄 RAG with Docling + Ollama 
 
-A Streamlit-based RAG (Retrieval-Augmented Generation) app that lets you upload PDFs, index them with Docling, and chat with them using Ollama LLMs and HuggingFace embeddings.
+A Streamlit-based RAG (Retrieval-Augmented Generation) app that lets you upload PDFs or excelsheets, index them with Docling, and chat with them using Ollama LLMs and HuggingFace embeddings.
 
 ---
 
 ## 🚀 Features
 
-* Upload and preview PDF documents
-* Index PDFs using `DoclingReader`
+* Upload and preview  documents
+* Index document using `DoclingReader`
 * Use HuggingFace embeddings (BGE models) for retrieval
-* Query PDFs with Ollama models
+* Query document with Ollama models
 * Interactive Streamlit chat UI
 
 ---
@@ -26,7 +26,7 @@ A Streamlit-based RAG (Retrieval-Augmented Generation) app that lets you upload 
     streamlit run app.py
     ```
 
-3.  **Pull a model in Ollama**
+3.  **Pull a model in Ollama**- here `qwen3` used for pdfs and `mistral:latest` used for excelsheets.
     ```bash
     ollama pull qwen3
     ```
